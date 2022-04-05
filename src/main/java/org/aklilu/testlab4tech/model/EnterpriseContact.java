@@ -1,6 +1,6 @@
 package org.aklilu.testlab4tech.model;
 
-public class ContactEnterprise {
+public class EnterpriseContact {
     private Long id;
     private String firstName;
     private String lastName;
@@ -8,4 +8,5 @@ public class ContactEnterprise {
     private String responsibility;
     private String officePhoneNo;
     private String mobilePhoneNo;
+    private String remark;
 }
